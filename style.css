@@ -17,7 +17,6 @@ line-height: 25px;
 }
 
 .card{
-  width: 500px;
   background-color: #f2e6ff;
   padding: 15px;
   margin: 10px;
@@ -104,18 +103,12 @@ li{
     width: 500px;
   }
 
-  .card{
-  width: 400px;
 }
 
 @media (max-width: 540px) {
   .container {
     width: 300px;
   }
-
-    .card{
-  width: 300px;
-}
 
 
 }
